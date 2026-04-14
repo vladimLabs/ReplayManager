@@ -7,3 +7,4 @@ Jump - прыжок на клавишу пробел
 Dash - Рывок в сторону Lshift
 
 Кнопки в UI для записи/проигрывания и стопа
+Путь сохранения ProjectFolder/Replays/replay_14_30_25.replay
